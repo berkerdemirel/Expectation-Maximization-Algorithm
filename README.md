@@ -23,5 +23,5 @@ It can be seen that from the detection and false alarm rates, the EM Algorithm p
 
 <p align="center">
 <img width="350" height="350" src="figures/EM_decision.png">
-<img width="350" height="350" src="figures/oracle_decision.png">
+<img width="350" height="350" src="figures/oracles_decision.png">
 </p>
