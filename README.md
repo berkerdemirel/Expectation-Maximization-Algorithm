@@ -14,3 +14,17 @@ These two steps are going to be repeated until convergence is achieved. In this 
 
 After that, it is going to perform a binary hypothesis testing and be compared with "the oracle" model.
 It can be seen that from the detection and false alarm rates, the EM Algorithm performs very well in Gaussian Mixtures.
+
+
+<p align="center">
+  <img width="460" height="175" src="figures/data.png">
+</p>
+
+<p align="left">
+  <img width="460" height="175" src="figures/EM_decision.png">
+</p>
+<p align="right">
+  <img width="460" height="175" src="figures/oracle_decision.png">
+</p>
+
+
